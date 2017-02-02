@@ -1,0 +1,10 @@
+Bundle-SymbolicName: liferay_module_lego
+Bundle-Name: Liferay Frontend JS Lego
+Bundle-Version: 1.0.0
+Liferay-JS-Config: /META-INF/resources/Config.js
+Liferay-Releng-Module-Group-Description:
+Liferay-Releng-Module-Group-Title: Frontend Infrastructure Lego
+Web-ContextPath: /frontend-js-lego
+
+
+
